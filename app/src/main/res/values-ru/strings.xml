@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">MyBux</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text">Войдите в свою учетную запись</string>
+
+
+
+    <string name="no_internet">Отсутствует соединение с Интернетом</string>
+    <string name="loading">Загрузка…</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_uz">O\'zbekcha</string>
+    <string name="lang_cyrillic">Ўзбекча</string>
+    <string name="auth_welcome_text">Добро \nпожаловать в \nE-Invoice</string>
+    <string name="auth_welcome_sub_text">Ваш цифровой помощник в мире финансов</string>
+    <string name="auth_exists_account">У меня есть учетная запись</string>
+    <string name="auth_account_reg">Зарегистрироваться</string>
+    <string name="auth_login_text">Введите номер телефона и \nпароль</string>
+    <string name="auth_login_number">Ваш номер</string>
+    <string name="dalee">Продолжить</string>
+    <string name="auth_login">Войдите в свою учетную запись</string>
+    <string name="your_number">Ваш номер</string>
+    <string name="your_password">Пароль</string>
+    <string name="signText">Продолжить</string>
+    <string name="production">Распечатать чек</string>
+    <string name="return_check">Возврат</string>
+    <string name="paper">Замените, если не осталось бумаги</string>
+    <string name="charging">Подключайте на зарядку</string>
+    <string name="temp">Температура девайса очень высок</string>
+    <string name="print">Ошибка при печата</string>
+    <string-array name="auth_mode">
+        <item>Кассир</item>
+        <item>Администратор</item>
+    </string-array>
+
+    <string name="auth_phone_or_password_wrong">Номер телефона или пароль не правильный</string>
+    <string name="search_hint">Найти по коду или названию</string>
+    <string name="clear_basket">Очистить корзину</string>
+    <string name="next">Далее</string>
+    <string name="main_all_pay">К оплате %s сум</string>
+    <string name="main_all_pay1">К оплате 0 сум</string>
+    <string name="drawer_item_home">Главная</string>
+    <string name="drawer_item_settings">Настройки</string>
+    <string name="basket">Корзина</string>
+    <string name="price">сум</string>
+    <string name="wt">/ шт</string>
+    <string name="create_product">Создать товар</string>
+    <string name="create_skidka">Создать скидку</string>
+    <string name="payment_text">Оплатить</string>
+    <string name="price_menthod">Выберите способ оплаты</string>
+    <string name="money1">Через наличные</string>
+    <string name="card">Через пластиковую карту</string>
+    <string name="komb">Комбинированый платеж</string>
+    <string name="label_passcode">Passcode</string>
+    <string name="check_ready">Подтверждение чека</string>
+    <string name="clear_baskets">Вы действительно хотите очистить корзину?</string>
+    <string name="uncheck1">Нет</string>
+    <string name="check">Да</string>
+    <string name="ready">Вы подтверждаете наличие всей суммы показанных в чеке?</string>
+    <string name="cash">Сумма Наличными</string>
+    <string name="cardCash">Сумма Картой</string>
+    <string name="pay_summ">Оплатить</string>
+    <string name="check_product">Чек товара</string>
+    <string name="inn">ИНН</string>
+    <string name="data">Дата</string>
+    <string name="check_id">Чек</string>
+    <string name="z_job">Z-Отчет</string>
+    <string name="category_check">Продажи</string>
+    <string name="minus">Снижение</string>
+    <string name="plus">Увеличение</string>
+    <string name="clouse">Удалить</string>
+    <string name="back">Назад</string>
+    <string name="streak">Штрих-код</string>
+    <string name="mxik">МХИК</string>
+    <string name="qqs">в т.ч. НДС 15.0%:</string>
+    <string name="total">Итого</string>
+    <string name="positions">Тип продукции</string>
+    <string name="discount">Скидка</string>
+    <string name="card_summ">Сумма с картой</string>
+    <string name="ficsal_info">Фискальная информация</string>
+    <string name="terminal_n">Терминал №</string>
+    <string name="fm">ФМ</string>
+    <string name="fp">ФП</string>
+    <string name="sd">Скидки (10.%)</string>
+    <string name="cash_page_title">Список чеков</string>
+    <string name="return_product">Можете ли вы вернуть те же товары</string>
+
+    <string name="create_z">Открыт Z отчет</string>
+    <string name="clouse_z">Закрыть Z отчет</string>
+    <string name="no_check">Не отправленные чеки</string>
+    <string name="cash_list">Список чеков</string>
+    <string name="about_fm">Об FM</string>
+    <string name="language">Язык</string>
+
+    <string name="all_discount">Общая сумма скидки</string>
+    <string name="no_internet1">Доступ в Интернет недоступен</string>
+    <string name="clear_bas">Корзина успешно очищена</string>
+
+
+    <string name="z_report_create">Z счет открыт</string>
+    <string name="z_report_clouse_zaproce">Z Отчет закрыт</string>
+    <string name="no_check_fm">В ФМ памяти вообще нет квитанции</string>
+    <string name="fm_count">Переданный порядковый номер чека меньше количества чеков на ФМ или 0</string>
+    <string name="check_no_info">Квитанция не найдена</string>
+    <string name="back_fm">Передан TOTAL_BLOCK с недействительными полями</string>
+
+    <string name="qqs_price">Поле НДС заполнено. Отправьте данные на сервер OFD</string>
+
+    <string name="check_count">Заполните поле проверочного номера</string>
+    <string name="all_price">Заполните денежное поле, когда оно заполнится полем накопленных денег.</string>
+
+    <string name="all_price_card">Память карты заполнена. Отправьте данные на сервер OFD</string>
+
+    <string name="memory_full">Память для хранения заполнена. Вам необходимо отправить проверочную информацию на сервер ofd и подтвердить.</string>
+    <string name="date_time">Информация о времени и дате отправлена. Дата и время проверки должны отличаться как минимум на 1 секунду от времени предыдущей проверки или открытия z-отчета.</string>
+    <string name="save_inspaction">Для сохранения чеков есть чеки, которые не отправляются при сохранении памяти. Вы должны отправить файлы проверки на сервер ofd и подтвердить.</string>
+    <string name="date_time_info">Дата и время переданных данных не соответствуют действительности</string>
+    <string name="memory">Память хранения Z-отчета переполнена. Следует заменить ФМ на новый</string>
+    <string name="send_ack">Переданый ack-файл имеет недействительную длинну</string>
+    <string name="no_z">Z-отчет не был открыт</string>
+    <string name="z_report_count_all">В текущем Z-отчете увеличилось количество транзакций продажи или возврата. Закройте текущий отчет по z и откройте новый отчет по Z. </string>
+    <string name="z_report_created">Z-отчет уже был открыт</string>
+    <string name="no_summ">Недостаточно суммы для возврата</string>
+    <string name="no_return_card_summ">На карте недостаточно суммы для возврата</string>
+    <string name="no_vat">Недостаточно суммы НДС для возврата</string>
+    <string name="create_z_fm_data">Переданы данные даты и времени открытия Z-отчета. Дата и время открытия Z-отчета должны отличаться хотя бы на 1 секунду от даты времени предыдущего закрытого Z-отчета</string>
+    <string name="fm_my">Переданный порядковый номер Z-отчета меньше 0 или больше кол-ва Z-отчетов в ФМ</string>
+    <string name="no_create_Z">Z счет закрыт</string>
+    <string name="z_report_create1">Z открытый счет</string>
+    <string name="z_empty">Попытка закрыть пустой Z-отчет</string>
+    <string name="z_clouse">Переданы данные даты и времени закрытия Z-отчета. Дата и время закрытия Z-отчета должны отличаться хотя бы на 1 секунду от даты времени предыдущего чека</string>
+    <string name="get_ack">Возможно был передан ack-файл не предназначенный для данного ФМ</string>
+    <string name="line_error">Передан FullReceiptHash и TOTAL_BLOCK недействительной длины</string>
+    <string name="error_date">Ошибка в дате и времни</string>
+    <string name="error_code">Неизвестый код</string>
+    <string name="error">Ошибка</string>
+    <string name="no_ficsal">Фискальный модуль не имеет возможности чтения</string>
+    <string name="no_internet_con">Нет подключения к Интернету</string>
+    <string name="send_uncheck">Отправить</string>
+    <string name="unsend_text">Нет отправленных чеков</string>
+    <string name="no_info">Не существует</string>
+    <string name="check_readey">Чек успешно зарегистрирован</string>
+
+
+
+    <string name="identify_fail">API module is not installed</string>
+
+    <string name="return_all_product">Полный возврат средств</string>
+    <string name="return_product1">Частичный возврат</string>
+    <string name="clear_basket1">Вернуться, очистив корзину</string>
+    <string name="return_chek1">Пожалуйста, верните полный чек</string>
+    <string name="return_one_product">Возврат товара</string>
+    <string name="no_information">Такого продукта не существует</string>
+    <string name="price_summ">К оплате 0 сум</string>
+    <string name="discount_selection">Выбор скидки</string>
+    <string name="discount_summ">Скидка</string>
+    <string name="smart_card">Ошибка при открытии смарт-карты</string>
+    <string name="no_smart_card">Нет возможности включить смарт-карту</string>
+    <string name="bar_code">Баркод</string>
+    <string name="error_smart_card">Ошибка в команде смарт-карты</string>
+    <string name="ask_file">Ошибка записи файла AC</string>
+    <string name="error_show">Ошибка</string>
+    <string name="neCreate">Не удалось открыть</string>
+    <string name="send_checks">Кол-во дней хранения чеков превышено, следует отправить чеки</string>
+    <string name="z_create">Z-отчет уже открытая</string>
+    <string name="z_empty_noBack">Z-отчет пустие Вы не можете закрыт</string>
+    <string name="successfully">Успешно</string>
+
+
+    <string name="admin">Админ</string>
+    <string name="clouse_lan">Отмена</string>
+    <string name="clear_baskets1">Ты действительно хочешь почистить корзину</string>
+    <string name="add_discount">Добавить скидку</string>
+    <string name="per_discount">Процент скидки</string>
+    <string name="save">Сохранить</string>
+    <string name="discount_list">Список скидок</string>
+    <string name="return_check_pr">Возвращение</string>
+    <string name="chek_ret">Принятие</string>
+    <string name="send_gnk_success_data">Ссылки были отправлены на успешный сервер</string>
+    <string name="clouse_my_z_report">Вы действительно хотите закрыть Z отчет</string>
+    <string name="open_my_z_report">Вы действительно хотите открыть отчет Z</string>
+    <string name="clouse_zzz">Закрыть</string>
+    <string name="open_zzz">Открытие</string>
+    <string name="release_check">Вывод</string>
+    <string name="again_check">Еще раз выписать чек</string>
+    <string name="returm_my_summ">Вернитесь к предыдущей сумме, если вы хотите вернуть</string>
+    <string name="return_check_prod">Вазврат</string>
+    <string name="drinks">Напитки</string>
+    <string name="sig_a">Сигареть</string>
+    <string name="and">из</string>
+    <string name="product_name">Название продукта</string>
+    <string name="add_product">Добавление продукта</string>
+    <string name="product_category">Категория продукта</string>
+    <string name="product_shtrix_code">Штрих код продукта</string>
+    <string name="product_price">Цена</string>
+    <string name="product_nds">Ндс ставка</string>
+
+    <string name="existent">Укажите, если имеется</string>
+    <string name="category_get">Выберите категория</string>
+    <string name="existent_mxik">Введите код MXIK</string>
+    <string name="existent_price">Цена продукта</string>
+    <string name="existent_qqs">Введите НДС</string>
+    <string name="no_existent_name">Введите название продукта</string>
+    <string name="save_product">Продукт сохранен</string>
+    <string name="no_internet2">Нет интернета</string>
+    <string name="no_product_name">Название продукта недоступно</string>
+    <string name="no_product_category">Нет категории продукта</string>
+    <string name="no_product_mxik">Продукт не имеет кода MXIK</string>
+    <string name="no_product_price">Цена продукта не доступна</string>
+    <string name="no_product_qqs">Продукт не содержит процент НДС</string>
+    <string name="no_product_info">Ссылка недоступна?</string>
+    <string name="no_product_lable">Код маркировки продукта?</string>
+    <string name="markerovka_code">Код маркировки продукта?</string>
+    <string name="commissionTin">Введите ИНН</string>
+    <string name="server_error">Отключитесь от сервера, пожалуйста, попробуйте позже, если данные доступны заранее, продолжайте пользоваться Интернетом в выключенном состоянии извините за ошибку, мы исправим эту ошибку очень скоро</string>
+    <string name="update_lan">Изменить</string>
+    <string name="no_clouse_zreport">Никаких отчетов в OFD не отправлялось, пожалуйста, закройте учетную запись Z после их отправки.</string>
+    <string name="no_information_data">В какой-то степени эта информация не включена?</string>
+    <string name="settings_login">Пожалуйста, введите свой Логин и пароль</string>
+    <string name="parol">Введите пароль</string>
+    <string name="approval">Утверждение</string>
+    <string name="logout">Вы хотите Выход из аккаунта</string>
+    <string name="logout1">Выход из аккаунта</string>
+    <string name="logout_text">Честно говоря, мы хотим выйти из аккаунта</string>
+    <string name="update_discount">Изменить</string>
+    <string name="delete_discount">Удалить</string>
+    <string name="replace">Повторить попытку</string>
+    <string name="save_product_my">Хранение продукта</string>
+    <string name="save_product_my_tt">Честно говоря, вы храните один и тот же продукт?</string>
+    <string name="no_internet_my">Подключение к Интернету недоступно. Пожалуйста, подключитесь к Интернету, а затем попробуйте</string>    <!-- Passcode lock -->
+
+    <string name="yes_">Да</string>
+    <string name="no">Нет</string>
+    <string name="no_internet3">Нет подключения к интернету</string>
+    <string name="update_lan_text">Выберите язык</string>
+    <string name="no_cash">Кеши недоступны</string>
+    <string name="no_perc">Такого процента нет</string>
+    <string name="no_basket">В корзине нет товаров</string>
+    <string name="no_discount">Скидки не доступны</string>
+</resources>

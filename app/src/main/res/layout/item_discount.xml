@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_10sdp"
+    android:id="@+id/cons"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackgroundBorderless"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <TextView
+            android:id="@+id/percent"
+            android:maxLength="5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Skidka qo'shish"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_15sdp"
+            android:maxLines="1"
+            android:textStyle="normal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.05"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.123"
+            app:layout_constraintWidth_percent="0.7" />
+        <ImageView
+            app:layout_constraintTop_toTopOf="@id/percent"
+            app:layout_constraintLeft_toRightOf="@id/percent"
+            android:layout_margin="@dimen/_5sdp"
+            app:layout_constraintBottom_toBottomOf="@id/percent"
+            app:layout_constraintHorizontal_bias="0.9"
+            android:src="@drawable/ic_discount"
+            android:layout_width="@dimen/_20sdp"
+            android:layout_height="@dimen/_20sdp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

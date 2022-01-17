@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">MyBux</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text">Hisobingizga kiring</string>
+
+
+    <string name="no_internet">Отсутствует соединение с Интернетом</string>
+    <string name="loading">Kuting…</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_uz">O\'zbekcha</string>
+    <string name="lang_cyrillic">Ўзбекча</string>
+    <string name="auth_welcome_text">E-Invoice-ga\n xush kelibsiz</string>
+    <string name="auth_welcome_sub_text">Moliya olamidagi raqamli yordamchingiz</string>
+    <string name="auth_exists_account">Akkauntim bor</string>
+    <string name="auth_account_reg">Ro\'yhatdan o\'tish</string>
+    <string name="auth_login_text">Telefon raqamingizni va \nparolni kiriting</string>
+    <string name="auth_login_number">Sizning raqamingiz</string>
+    <string name="dalee">Davom etish</string>
+    <string name="auth_login">Hisobingizga kiring</string>
+    <string name="your_number">Sizning raqamingiz</string>
+    <string name="your_password">Parol</string>
+    <string name="signText">Davom etish</string>
+    <string-array name="auth_mode">
+        <item>Kassir</item>
+        <item>Administrator</item>
+    </string-array>
+    <string name="auth_phone_or_password_wrong">Telefon raqam yoki parol xato</string>
+    <string name="search_hint">Kod yoki nomi orqali qidirish</string>
+    <string name="clear_basket">Savatni tozalash</string>
+    <string name="next">Keyingi</string>
+    <string name="main_all_pay">To\'lov uchun %s so\'m</string>
+    <string name="main_all_pay1">To\'lov uchun 0 so\'m</string>
+    <string name="drawer_item_home">Asosiy</string>
+    <string name="drawer_item_settings">Sozlamalar</string>
+    <string name="basket">Savat</string>
+    <string name="price">so\'m</string>
+    <string name="wt">/ dona</string>
+    <string name="create_product">Mahsulot yaratish</string>
+    <string name="create_skidka">Chegirma yaratish</string>
+    <string name="label_passcode">Passcode</string>
+    <string name="payment_text">To\'lov</string>
+    <string name="price_menthod">To\'lov usulini tanlang</string>
+    <string name="money1">Naqd pul orqali</string>
+    <string name="card">Plastik karta orqali</string>
+    <string name="komb">Birlashgan to\'lov</string>
+    <string name="check_ready">Tekshirish</string>
+    <string name="ready">Ko\'rsatilgan ma\'lumotlarni to\'g\'riligini tasdiqlaysizmi?</string>
+    <string name="clear_baskets">Savatni tozalashni xohlaysizmi?</string>
+
+    <string name="cash">Naqd pul miqdori</string>
+    <string name="cardCash">Kartadagi pul miqdori</string>
+    <string name="pay_summ">To\'lash</string>
+    <string name="check_product">Maxsulotlar cheki</string>
+
+    <string name="check">Ha</string>
+    <string name="uncheck1">Yo\'q</string>
+    <string name="inn">STIR</string>
+    <string name="data">Sana</string>
+    <string name="check_id">Chek</string>
+    <string name="z_job">Z-Xisobot</string>
+    <string name="category_check">Sotuv</string>
+    <string name="minus">Kamaytirish</string>
+    <string name="plus">Oshirish</string>
+    <string name="clouse">O\'chirish</string>
+    <string name="back">Orqaga</string>
+    <string name="production">Chop etish</string>
+    <string name="return_check">Qaytarish</string>
+    <string name="paper">Qog\'oz qolmagan iltimos almashtiring</string>
+    <string name="charging">Quvvatlash uchun ulang</string>
+    <string name="temp">Qurilmaning harorati juda yuqori</string>
+    <string name="print">Chop etishda xatolik yuz berdi</string>
+    <string name="streak">Shtrix kodi</string>
+    <string name="mxik">МХIK</string>
+    <string name="qqs">QQS 15.0%:</string>
+    <string name="total">Jami</string>
+    <string name="positions">Maxsulotlar turi</string>
+    <string name="discount">Chegirma</string>
+    <string name="card_summ">Karta miqdori</string>
+    <string name="ficsal_info">Moliyaviy ma\'lumotlar</string>
+    <string name="terminal_n">Terminal №</string>
+    <string name="fm">Ficsal modul</string>
+    <string name="fp">Ficsal imzo</string>
+    <string name="sd">Chegirma (10.%)</string>
+
+    <string name="cash_page_title">Cheklar ro\'yxati</string>
+    <string name="return_product">Rostdanham shu maxsulotlarni qaytib olasizmi</string>
+
+    <string name="create_z">Z hisobotni ochish</string>
+    <string name="clouse_z">Z hisobotni yopish</string>
+
+
+    <string name="no_check">Yuborilmagan cheklar</string>
+    <string name="cash_list">Cheklar ro\'yxati</string>
+    <string name="about_fm">FM haqida</string>
+    <string name="language">Til</string>
+    <string name="all_discount">Jami chegirma miqdori</string>
+    <string name="no_internet1">Mavjud emas</string>
+    <string name="clear_bas">Savat muvaffaqiyatli bo\'shatildi</string>
+    <string name="z_report_create">Z xisobot ochiq</string>
+    <string name="z_report_create1">Z xisobot ochildi</string>
+    <string name="z_report_clouse_zaproce">Z hisobot yopildi</string>
+    <string name="no_check_fm">FM xotirasida umuman kvitansiya yo\'q</string>
+    <string name="fm_count">Kvitansiyaning uzatilayotgan seriya raqami FMdagi kvitansiyalar soni 0 yoki undan kam</string>
+    <string name="check_no_info">Chek topilmadi</string>
+    <string name="back_fm">TOTAL_BLOCKda mavjud bo\'lmagan maydon yuborildi</string>
+
+    <string name="qqs_price">QQS maydoni to\'lgan. Ma\'lumotlarni OFD serveriga yuboring</string>
+
+    <string name="check_count">Tekshirish tartib raqami maydonini to\'ldirish</string>
+    <string name="all_price">To\'plangan pul maydoni bilan to\'ldirilganda naqd pul maydonini to\'ldirish</string>
+    <string name="all_price_card">Karta xotirasi to\'lgan. Ma\'lumotlarni OFD serveriga yuboring</string>
+    <string name="memory_full">Cheklarni saqlash xotirasi to\'lgan. Chek ma\'lumotlarini ofd serveriga yuborishingiz va tasdiqlashingiz kerak.</string>
+    <string name="date_time">Vaqt va sana ma\'lumotlari yuborildi. Tekshirish sanasi va vaqti kamida 1 soniyada farq qilishi kerak, avvalgi tekshirish vaqtidan yoki z hisobotining ochilishidan boshlab</string>
+    <string name="save_inspaction">Cheklarni saqlash uchun xotiraning ma\'lumoti vaqtida jo\'natilmagan cheklar mavjud. Tekshirish fayllarini ofd serveriga yuborishingiz va tasdiqlashingiz kerak.</string>
+    <string name="date_time_info">Sana va vaqtning uzatilgan ma\'lumoti haqiqiy uzunlikka ega emas</string>
+    <string name="memory">Z hisobotining saqlash xotirasi to\'lgan . FM ni yangisi bilan almashtirish kerak</string>
+    <string name="send_ack">Uzatilgan ack fayl yaroqsiz uzunlikka ega</string>
+    <string name="no_z">Z-hisobot yopilgan</string>
+    <string name="z_report_count_all">Joriy z-hisobotida sotish yoki qaytarish operatsiyalari soni oshib ketdi. Joriy z hisobotini yoping va yangi z hisobotini oching</string>
+    <string name="z_report_created">Z-hisobot allaqachon ochilgan</string>
+    <string name="no_summ">Qaytish uchun pul miqdori yetarli emas</string>
+    <string name="no_return_card_summ">Qaytish uchun karta miqdori yetarli emas</string>
+    <string name="no_vat">Qaytish uchun QQS miqdori yetarli emas</string>
+    <string name="create_z_fm_data">Z hisobotining ochilish sanasi va vaqti o\'tgan. Z hisobotining ochilish sanasi va vaqti kamida 1 soniyada farq qilishi kerak, avvalgi yopiq z hisoboti vaqtidan boshlab</string>
+    <string name="fm_my">Z-hisobotning berilgan seriya raqami FM-da Z-hisobotlarining 0 yoki undan ko\'p sonidan kam</string>
+    <string name="no_create_Z">Z xisobot yopiq</string>
+    <string name="z_empty">Z hisobotda ma\'lumotlar topilmadi.Z hisobotni yopish mumkin emas</string>
+    <string name="z_clouse">O\'tgan sana va z hisobotining yopilish vaqti. Z hisobotining yopilish sanasi va vaqti kamida 1 soniyada farq qilishi kerak. oldingi tekshirish vaqtidan boshlab</string>
+    <string name="get_ack">Ehtimol, ushbu FM uchun mo\'ljallanmagan ack fayli berilgan</string>
+    <string name="line_error">Fullreceipthash va TOTAL_BLOCK uzunligi mavjud emas</string>
+    <string name="error_date">Sana va vaqt noto\'g\'ri</string>
+    <string name="error_code">Noma\'lum kod</string>
+    <string name="error">Xato</string>
+    <string name="no_ficsal">Fiskal modul o\'qish imkoniyati mavjud emas</string>
+    <string name="no_internet_con">Internetga ulanish yo\'q</string>
+    <string name="admin">Admin</string>
+    <string name="send_uncheck">Yuborish</string>
+    <string name="unsend_text">Yuborilmagan cheklar mavjud emas</string>
+    <string name="no_info">Mavjud emas</string>
+
+    <string name="check_readey">Chek muvaffaqiyatli yaratildi</string>
+
+    <string name="identify_fail">API modul topilmadi</string>
+    <string name="return_check_prod">Qaytarish</string>
+
+
+    <string name="return_all_product">To\'liq qaytarish</string>
+    <string name="return_product1">Qisman qaytib olish</string>
+    <string name="clear_basket1">Savatni tozalab orqaga qaytish</string>
+    <string name="return_chek1">Iltimos to\'liq chekni qaytarib oling</string>
+    <string name="return_one_product">Maxsulot qaytarish</string>
+    <string name="no_information">Bunaqa maxsulot mavjud emas</string>
+    <string name="price_summ">To\'lov uchun 0 so\'m</string>
+    <string name="discount_selection">Chegirma tanlash</string>
+    <string name="discount_summ">Chegirma</string>
+    <string name="smart_card">Smart karta ochishda xatolik</string>
+    <string name="no_smart_card">Smart karta yoqish imkoniyati mavjud emas</string>
+    <string name="bar_code">Shtrix kod</string>
+    <string name="error_smart_card">Smart karta buyrug\'ida xatolik</string>
+    <string name="ask_file">ACK faylni yozishda xatolik</string>
+    <string name="error_show">Xatolik ro\'y berdi</string>
+    <string name="neCreate">Ochishda xatolik</string>
+    <string name="send_checks">Cheklarni saqlash kunlari soni oshib ketdi, cheklarni yuborish kerak</string>
+    <string name="z_create">Z-hisobot ochildi</string>
+    <string name="z_empty_noBack">Z - hisobot bo\'sh holda yopishiz mumkin emas</string>
+    <string name="successfully">Muvaffaqiyatli</string>
+    <string name="clouse_lan">Bekor qilish</string>
+    <string name="clear_baskets1">Rostdanham savatni tozalaysizmi</string>
+    <string name="add_discount">Chegirma qo\'shish</string>
+    <string name="per_discount">Chegirma foizi</string>
+    <string name="save">Saqlash</string>
+    <string name="discount_list">Chegirmalar ro\'yxati</string>
+    <string name="chek_ret">Qabulqilish</string>
+    <string name="send_gnk_success_data">Malumotlar muvofaqiyatli serverga yuborildi</string>
+    <string name="clouse_my_z_report">Rostdan ham Z hisobotni yopishni istaysizmi</string>
+    <string name="open_my_z_report">Rostdan ham Z hisobotni ochishni istaysizmi</string>
+    <string name="clouse_zzz">Yopish</string>
+    <string name="open_zzz">Ochish</string>
+    <string name="return_check_pr">Qaytarib olish</string>
+    <string name="release_check">Chiqarish</string>
+    <string name="again_check">Yana bir marotaba check chiqarasizmi</string>
+    <string name="returm_my_summ">Orqaga qaytmoqchi bo\'lsangiz oldingi summaga qaytaring</string>
+    <string name="and">dan</string>
+    <string name="add_product">Mahsulot qo\'shish</string>
+    <string name="product_name">Maxsulot nomi</string>
+    <string name="product_category">Mahsulot kategoriyasi</string>
+    <string name="product_shtrix_code">Mahsulot qisqa kodi</string>
+    <string name="product_nds">QQS darajasi</string>
+    <string name="product_price">Narxi</string>
+    <string name="existent">Agar mavjud bo\'lsa</string>
+    <string name="existent_qqs">QQS ni kiriting</string>
+    <string name="existent_price">Maxsulot narxi</string>
+    <string name="existent_mxik">MXIK kodini kiriting</string>
+    <string name="no_existent_name">Maxsulot nomini kiriting</string>
+    <string name="category_get">Turkumni tanlang</string>
+    <string name="sig_a">Sigaret</string>
+    <string name="drinks">Ichimliklar</string>
+    <string name="save_product">Maxsulot saqlandi</string>
+    <string name="no_internet2">Internet mavjud emas</string>
+
+    <string name="no_product_name">Maxsulotni nomi mavjud emas</string>
+    <string name="no_product_category">Maxsulotni kategoriyasi mavjud emas</string>
+    <string name="no_product_mxik">Maxsulotni MXIK kodi mavjud emas</string>
+    <string name="no_product_price">Maxsulotni narxi mavjud emas</string>
+    <string name="no_product_qqs">Maxsulotni QQS foizi mavjud emas</string>
+    <string name="no_product_info">Malumot mavjud emas?</string>
+    <string name="no_product_lable">Maxsulot markerovka kodi?</string>
+    <string name="markerovka_code">Maxsulot markerovka kodi?</string>
+    <string name="commissionTin">INN ni kiriting</string>
+    <string name="server_error">Server bilan uzilish ro\'yberdi iltimos keyinroq harakat qilib ko\'ring.Yoki agar malumotlar oldindan mavjud bo\'lsa internetni o\'chirgan holatda ishlatib turing xatilk uchun uzur. Bu xatolikni tez orada to\'g\'irlaymiz</string>
+    <string name="update_lan">O\'zgartirish</string>
+    <string name="no_clouse_zreport">OFDga yuborilmagan malumotlar mavjud iltimos ularni jo\'natib keyin Z xisobotni yoping.</string>
+    <string name="no_information_data">Qaysidir malumot kiritilmadi?</string>
+    <string name="settings_login">Iltimos Login hamda parolingizni kiriting</string>
+    <string name="parol">Parolni kiriting</string>
+    <string name="approval">Tasdiqlash</string>
+    <string name="logout">Akkoundan chiqishni xoxlaysizmi</string>
+    <string name="logout1">Akkountdan chiqish</string>
+    <string name="logout_text">Rostdanham akkountdan chiqmoqchisimiz</string>
+    <string name="update_discount">O\'zgartirish</string>
+    <string name="delete_discount">O\'chirish</string>
+    <string name="replace">Qayta urunish</string>
+    <string name="save_product_my">Mahsulot saqlash</string>
+    <string name="save_product_my_tt">Rostdanham shu mahsulotni saqlaysizmi?</string>
+    <string name="no_internet_my">Internetga ulanish mavjud emas. Iltimos internetga ulanib keyin urunib ko\'ring</string>
+    <string name="yes_">Ha</string>
+    <string name="no">Yo\'q</string>
+    <string name="no_internet3">Internetga ulanish mavjud emas</string>
+    <string name="update_lan_text">Tilni tanlang</string>
+    <string name="no_cash">Keshlar mavjud emas</string>
+    <string name="no_perc">Bunday Foiz mavjud emas</string>
+    <string name="no_basket">Savatda saqlangan mahsulotlar mavjud emas</string>
+    <string name="no_discount">Chegirmalar mavjud emas</string>
+
+
+</resources>

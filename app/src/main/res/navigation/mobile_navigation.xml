@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/authLanguageFragment">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.mybux.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_basketFragment"
+            app:destination="@id/basketFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_discountFragment"
+            app:destination="@id/discountFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.mybux.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" >
+        <action
+            android:id="@+id/action_nav_gallery_to_aboutFmFragment"
+            app:destination="@id/aboutFmFragment" />
+        <action
+            android:id="@+id/action_nav_gallery_to_cashListFragment"
+            app:destination="@id/cashListFragment" />
+        <action
+            android:id="@+id/action_nav_gallery_to_unsendCheckFragment"
+            app:destination="@id/unsendCheckFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.mybux.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/authFragment"
+        android:name="com.example.mybux.ui.auth.AuthFragment"
+        tools:layout="@layout/fragment_auth" >
+        <action
+            android:id="@+id/action_authFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/authLanguageFragment"
+        android:name="com.example.mybux.ui.auth.AuthLanguageFragment"
+        android:label="fragment_auth_language"
+        tools:layout="@layout/fragment_auth_language" >
+        <action
+            android:id="@+id/action_authLanguageFragment3_to_authFragment2"
+            app:destination="@id/authFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/basketFragment"
+        android:name="com.example.mybux.ui.basket.BasketFragment"
+        android:label="fragment_basket"
+        tools:layout="@layout/fragment_basket" />
+    <fragment
+        android:id="@+id/discountFragment"
+        android:name="com.example.mybux.ui.discount.DiscountFragment"
+        android:label="fragment_discount"
+        tools:layout="@layout/fragment_discount" />
+    <fragment
+        android:id="@+id/aboutFmFragment"
+        android:name="com.example.mybux.ui.gallery.aboutFm.AboutFmFragment"
+        tools:layout="@layout/fragment_about_fm" />
+    <fragment
+        android:id="@+id/cashListFragment"
+        android:name="com.example.mybux.ui.gallery.cashFragment.CashListFragment"
+        tools:layout="@layout/fragment_cash_list" />
+    <fragment
+        android:id="@+id/unsendCheckFragment"
+        android:name="com.example.mybux.ui.gallery.unsendChek.UnsendCheckFragment"
+        tools:layout="@layout/fragment_unsend_check" />
+</navigation>

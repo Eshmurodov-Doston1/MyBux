@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lan_color">#F3F4F5</color>
+
+
+    <!--    Light-->
+    <color name="background">#FFFFFFFF</color>
+    <color name="dayTextColor">#FF000000</color>
+    <color name="iconColorDay">#FF000000</color>
+    <color name="myButtonDayColor">#039C55</color>
+    <color name="cardBack">#FFFFFFFF</color>
+    <color name="toolbarColorDay">#FFFFFFFF</color>
+    <color name="searchBackDay">#F3F4F5</color>
+    <color name="hintTextColorDay">#787676</color>
+    <color name="loginTextColorDay">#B5ADAD</color>
+    <color name="hitnColorday">#D8D4D4</color>
+    <color name="buttonBackDay">#F6F6F7</color>
+    <color name="lanCardButtonDay">#F3F4F5</color>
+    <color name="statusBarColorDay">#FFFFFFFF</color>
+    <color name="priceDayColor">#2C81FB</color>
+    <color name="clearBasketTextDay">#9A9696</color>
+    <color name="clearBasketIconDay">#636B77</color>
+    <color name="spinnerColorDay">#80D1CCCC</color>
+    <!--    Light-->
+
+    <color name="green_1">#039C55</color>
+    <color name="green_2">#3AC737</color>
+    <color name="gray_1">#F6F6F7</color>
+    <color name="gray_2">#636B7799</color>
+    <color name="gray_3">#4D636B77</color>
+    <color name="gray_4">#F6F7F7</color>
+    <color name="red">#FF4400</color>
+    <color name="yellow">#FEB912</color>
+    <color name="blue_1">#2C81FB</color>
+    <color name="nk_color_strike">#2E7D32</color>
+    <color name="nk_color_pressed">#4cc552</color>
+    <color name="red_nointernet">#CD0F0F</color>
+    <color name="clear_text">#9A9696</color>
+    <color name="grey">#8D9BA8</color>
+    <color name="myBackColor">#039C55</color>
+<!--    Dark-->
+    <color name="backgroundDark">#131B2A</color>
+    <color name="darkTextColor">#FFFFFFFF</color>
+    <color name="iconColorDark">#FFFFFFFF</color>
+    <color name="myButtondarkColor">#039C55</color>
+    <color name="cardBackDark">#252B3A</color>
+    <color name="toolbarColordark">#131B2A</color>
+    <color name="searchBackNight">#252B3A</color>
+    <color name="hintTextColorNight">#FFFFFFFF</color>
+    <color name="loginTextColorNight">#FFFFFFFF</color>
+    <color name="hitnColorNight">#D8D4D4</color>
+    <color name="buttonBackNight">#252B3A</color>
+    <color name="lanCardButtonNight">#252B3A</color>
+    <color name="statusBarColorNight">#131B2A</color>
+    <color name="priceNightColor">#2A2C81FB</color>
+    <color name="clearBasketTextNight">#FFFFFFFF</color>
+    <color name="clearBasketIconNight">#FFFFFFFF</color>
+    <color name="spinnerColorNight">#252B3A</color>
+    <!--    Dark-->
+
+</resources>
